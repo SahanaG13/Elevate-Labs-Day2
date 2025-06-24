@@ -1,1 +1,7 @@
-# Elevate-Labs-Day2
+- Step 1: Generates summary statistics like mean, median, and standard deviation.<br>
+- Step 2: Creates histograms to show the distribution of numerical features.<br>
+- Step 3: Draws boxplots to help visualize and detect outliers.<br>
+- Step 4: Uses a pairplot to visualize relationships between features and the target (`Survived`).<br>
+- Step 5: Displays a correlation heatmap to examine relationships between numerical features.<br>
+- Step 6: Uses interactive Plotly histograms to visualize survival by passenger class and sex.<br>
+- Step 7: Compares age distributions of survivors vs non-survivors using KDE curves.<br>
